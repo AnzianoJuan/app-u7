@@ -13,10 +13,17 @@
         <asp:Button ID="ButtonOp1" runat="server" Text="Opción 1" OnClick="ButtonOp1_Click"  CssClass="btn btn-primary btn-lg mb-3 shadow-sm" />
     </div>
 
-    <div class="d-flex justify-content-center align-items-center gap-3">
+
+       <%if (Session["Usuario"] != null && ((Dominio.Usuario)Session["Usuario"]).TipoUser == Dominio.TipoUsuario.ADMIN)
+           {  %>
+    
+       <div class="d-flex justify-content-center align-items-center gap-3">
         <asp:Button ID="ButtonOp2" runat="server" Text="Opción 2" OnClick="ButtonOp2_Click" CssClass="btn btn-secondary btn-lg shadow-sm" />
         <asp:Label ID="Label1" runat="server" Text="⚠️ Debes ser administrador" CssClass="text-danger fw-bold"></asp:Label>
     </div>
+       <% } %>
+
+
 </div>
 
 

@@ -1,0 +1,6 @@
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\bin\Debug\Acceso-Datos.dll
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\bin\Debug\Acceso-Datos.pdb
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\obj\Debug\Acceso-Datos.csproj.AssemblyReference.cache
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\obj\Debug\Acceso-Datos.csproj.CoreCompileInputs.cache
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\obj\Debug\Acceso-Datos.dll
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Acceso-Datos\obj\Debug\Acceso-Datos.pdb
