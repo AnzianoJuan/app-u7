@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dominio;
 using Acceso_Datos;
+using Dominio;
+
 
 namespace Negocio
 {

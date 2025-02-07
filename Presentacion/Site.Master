@@ -40,12 +40,12 @@
 
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
             <div class="container">
-               
+
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item"><a class="nav-link" runat="server" href="Default.aspx">Inicio</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="Login.aspx">Login</a></li>
-
+                        <li class="nav-item"><a class="nav-link" runat="server" href="EnvioMails.aspx">Envio de mails</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,9 +54,9 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
-            <footer>
+            <%--         <footer>
                 <p>&copy; <%: DateTime.Now.Year %></p>
-            </footer>
+            </footer>--%>
         </div>
     </form>
     <asp:PlaceHolder runat="server">

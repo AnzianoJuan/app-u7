@@ -74,7 +74,5 @@ C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\A
 C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\obj\Debug\Presentacion.pdb
 C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Dominio.dll
 C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Negocio.dll
-C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Acceso-Datos.dll
 C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Dominio.pdb
 C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Negocio.pdb
-C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\cSharp-III\U7\DesarrolloAppPP\App-PP-U7\Presentacion\bin\Acceso-Datos.pdb
