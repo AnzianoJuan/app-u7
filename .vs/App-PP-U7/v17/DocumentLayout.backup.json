@@ -3,27 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\negocio\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\negocio\\traineenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\traineenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\formtrainee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formtrainee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\formtrainee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formtrainee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4789039F-FB5F-4D9B-99C7-B4BD9CD9C816}|Dominio\\Dominio.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\dominio\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4789039F-FB5F-4D9B-99C7-B4BD9CD9C816}|Dominio\\Dominio.csproj|solutionrelative:dominio\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\enviomails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\enviomails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\negocio\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\presentacion\\enviomails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\enviomails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\presentacion\\enviomails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\enviomails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\enviomails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\enviomails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|c:\\users\\juani\\desktop\\acces\\csharp-maxiprograma\\csharp-iii\\u7\\desarrolloapppp\\app-pp-u7\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\error.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\error.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDF81074-10C9-4E74-AE09-4932BE90F0A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7405192B-D6A8-4D26-A7A2-D31F72FE3F0A}|Presentacion\\Presentacion.csproj|C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\presentacion\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -67,19 +83,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\EmailService.cs",
-              "RelativeDocumentMoniker": "Negocio\\EmailService.cs",
-              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\EmailService.cs",
-              "RelativeToolTip": "Negocio\\EmailService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
+              "Title": "TraineeNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\TraineeNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\TraineeNegocio.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\TraineeNegocio.cs",
+              "RelativeToolTip": "Negocio\\TraineeNegocio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:21:26.29Z",
+              "WhenOpened": "2025-03-13T22:28:40.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "FormTrainee.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\FormTrainee.aspx.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormTrainee.aspx.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\FormTrainee.aspx.cs",
+              "RelativeToolTip": "Presentacion\\FormTrainee.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:13:36.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Dominio\\Trainee.cs",
+              "RelativeDocumentMoniker": "Dominio\\Trainee.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Dominio\\Trainee.cs",
+              "RelativeToolTip": "Dominio\\Trainee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:04:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTrainee.aspx",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\FormTrainee.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\FormTrainee.aspx",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\FormTrainee.aspx",
+              "RelativeToolTip": "Presentacion\\FormTrainee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T21:55:44.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EnvioMails.aspx.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\EnvioMails.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\EnvioMails.aspx.cs",
@@ -87,12 +139,11 @@
               "RelativeToolTip": "Presentacion\\EnvioMails.aspx.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:07:06.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T19:07:06.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Site.Master",
               "RelativeDocumentMoniker": "Presentacion\\Site.Master",
@@ -100,12 +151,11 @@
               "RelativeToolTip": "Presentacion\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-07T19:13:26.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T19:13:26.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EnvioMails.aspx",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\EnvioMails.aspx",
               "RelativeDocumentMoniker": "Presentacion\\EnvioMails.aspx",
@@ -113,12 +163,11 @@
               "RelativeToolTip": "Presentacion\\EnvioMails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-07T19:00:24.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T19:00:24.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Login.aspx",
               "RelativeDocumentMoniker": "Presentacion\\Login.aspx",
@@ -126,24 +175,35 @@
               "RelativeToolTip": "Presentacion\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-04T20:14:53.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T20:14:53.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
               "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\AccesoDatos.cs",
               "RelativeToolTip": "Negocio\\AccesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T22:11:44.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\EmailService.cs",
+              "RelativeDocumentMoniker": "Negocio\\EmailService.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\EmailService.cs",
+              "RelativeToolTip": "Negocio\\EmailService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:21:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\Default.aspx.cs",
@@ -151,12 +211,11 @@
               "RelativeToolTip": "Presentacion\\Default.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:52:48.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T21:52:48.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Default.aspx",
               "RelativeDocumentMoniker": "Presentacion\\Default.aspx",
@@ -168,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Error.aspx.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Error.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\Error.aspx.cs",
@@ -176,12 +235,11 @@
               "RelativeToolTip": "Presentacion\\Error.aspx.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:42:00.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T21:42:00.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Error.aspx",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Error.aspx",
               "RelativeDocumentMoniker": "Presentacion\\Error.aspx",
@@ -193,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Presentacion\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\Login.aspx.cs",
@@ -201,12 +259,11 @@
               "RelativeToolTip": "Presentacion\\Login.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:29:35.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T21:29:35.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UsuarioNegocio.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Negocio\\UsuarioNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\UsuarioNegocio.cs",
@@ -214,12 +271,11 @@
               "RelativeToolTip": "Negocio\\UsuarioNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:07:12.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T21:07:12.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\cSharp-MaxiPrograma\\cSharp-III\\U7\\DesarrolloAppPP\\App-PP-U7\\Dominio\\Usuario.cs",
               "RelativeDocumentMoniker": "Dominio\\Usuario.cs",

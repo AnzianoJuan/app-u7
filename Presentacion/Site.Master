@@ -43,9 +43,38 @@
 
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="Default.aspx">Inicio</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="Login.aspx">Login</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="EnvioMails.aspx">Envio de mails</a></li>
+                        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                            <div class="container-fluid">
+                                <!-- Logo o nombre del sitio -->
+                                <a class="navbar-brand" href="Default.aspx">Mi Sitio</a>
+
+                                <!-- Botón para colapsar menú en pantallas pequeñas -->
+                                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+
+                                <!-- Menú principal alineado a la izquierda -->
+                                <div class="collapse navbar-collapse">
+                                    <ul class="navbar-nav me-auto">
+                                        <li class="nav-item">
+                                            <a class="nav-link" runat="server" href="Default.aspx">Inicio</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" runat="server" href="EnvioMails.aspx">Envío de mails</a>
+                                        </li>
+                                    </ul>
+
+                                    <!-- Contenedor para empujar los botones a la derecha -->
+                                    <div class="ms-auto">
+                                        <a href="Login.aspx" class="btn btn-primary me-2" runat="server">Login</a>
+                                        <a href="FormTrainee.aspx" class="btn btn-success">Registro</a>
+                                    </div>
+                                </div>
+                        </nav>
+
+                        <!-- Enlace a Bootstrap CSS -->
+                        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
                     </ul>
                 </div>
             </div>

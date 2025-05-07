@@ -121,6 +121,7 @@
     <Content Include="EnvioMails.aspx" />
     <Content Include="Error.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="FormTrainee.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Login.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -215,6 +216,13 @@
     </Compile>
     <Compile Include="Error.aspx.designer.cs">
       <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrainee.aspx.cs">
+      <DependentUpon>FormTrainee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormTrainee.aspx.designer.cs">
+      <DependentUpon>FormTrainee.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
